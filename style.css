@@ -80,6 +80,7 @@ button {
     justify-content: center;
     align-items: center;
     padding: 36px;
+    margin-bottom: 80px;
 }
 
 .info-title {
@@ -100,7 +101,7 @@ button {
     max-width: 160px;
     justify-content: center;
     text-align: center;
-    color: #969ba3;
+    color: #1f2937;
 }
 
 .box {
