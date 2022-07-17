@@ -171,6 +171,14 @@ button {
     margin-right: 50px;
 }
 
+.footer {
+    background-color: #1f2937;
+    width: 100%;
+    text-align: center;
+    color:#e5e7eb;
+    padding: 35px;
+}
+
 ul {
     list-style-type: none;
     display: flex;
